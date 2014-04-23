@@ -1,0 +1,21 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+a {
+  color: #00b7ff;
+}
+#chat {
+  border: 1px solid #ccc;
+  height: 500px;
+  margin-bottom: 10px;
+  padding: 10px;
+  overflow: hidden;
+ul
+}
+li {
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 5px;
+  margin-bottom: 5px;
+  list-style: name;
+}

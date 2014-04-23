@@ -1,0 +1,17 @@
+body
+  padding: 50px
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif
+a
+  color: #00B7FF
+
+#chat
+  border: 1px solid #CCC
+  height: 500px
+  margin-bottom: 10px
+  padding: 10px
+  ul
+	li
+	  border-bottom: 1px solid #CCC
+	  padding-bottom: 5px
+	  margin-bottom: 5px
+	  list-style: name
